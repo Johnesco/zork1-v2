@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "game": "zork1-v2",
+  "layers": {
+    "scenarios": { "enabled": true, "regtest_file": "zork1-v2.regtest" }
+  },
+  "coverage": { "rooms_total": 110, "score_max": 350 }
+}
